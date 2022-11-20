@@ -1,0 +1,10 @@
+xgboost<1.6.0
+pandas<1.4.0
+jupyterlab
+numpy
+seaborn
+matplotlib
+sklearn
+plotly
+flask
+waitress
